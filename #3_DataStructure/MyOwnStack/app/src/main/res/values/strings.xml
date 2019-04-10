@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyOwnStack</string>
+    <string name="push_button_name">Push</string>
+    <string name="pop_button_name">Pop</string>
+    <string name="hint_edit_text">Enter your item data</string>
+</resources>
