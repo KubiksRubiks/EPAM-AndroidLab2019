@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentToGallery</string>
+    <string name="button_text">Choose image</string>
+</resources>
